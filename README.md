@@ -23,6 +23,9 @@ The tutorials are organized sequentially by session, labeled as:
 - `tuto_2`
 - ...
 
+## Instructions Document
+You can find the detailed questions and instructions for each tutorial [here](https://www.lamsade.dauphine.fr/~cornaz/Enseignement/L2_ALGOPROG3/TP/).
+
 Each tutorial folder includes Python source code and related documentation or notes.
 
 ## How to Use This Repository
